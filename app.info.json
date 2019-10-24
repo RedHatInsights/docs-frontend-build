@@ -1,0 +1,11 @@
+{
+  "app_name": "product-docs",
+  "src_hash": "335fce7a4a7eef75c0df8c935a50ee360962d345",
+  "src_tag": "",
+  "src_branch": "master",
+  "travis": {
+    "event_type": "push",
+    "build_number": "4",
+    "build_web_url": "https://travis-ci.org/RedHatInsights/docs-frontend/builds/602484750"
+  }
+}
