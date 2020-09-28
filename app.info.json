@@ -1,12 +1,12 @@
 {
   "app_name": "product",
-  "src_hash": "465583a4c4f8225f5ca8f5fb18bf3d5c6161ade3",
+  "src_hash": "681570e33724fb72833d82cf408dfeb2d357bd4f",
   "src_tag": "",
   "src_branch": "master",
   "patternfly_dependencies": ["@patternfly/patternfly@4.31.6","@patternfly/react-core@4.40.4"],
   "travis": {
     "event_type": "push",
-    "build_number": "19",
-    "build_web_url": "https://travis-ci.org/RedHatInsights/docs-frontend/builds/731076864"
+    "build_number": "20",
+    "build_web_url": "https://travis-ci.org/RedHatInsights/docs-frontend/builds/731077100"
   }
 }
